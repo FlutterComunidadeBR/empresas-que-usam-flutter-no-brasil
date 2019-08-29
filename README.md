@@ -1,6 +1,6 @@
 # Empresas que usam Flutter no Brasil
 
-> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras]
+> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/FlutterComunidadeBR/empresas-que-usam-flutter-no-brasil/blob/master/CONTRIBUTING.md)
 
 Nome | Cidade | Tecnologias Relacionadas | Declaração
 :------------: | ------------------------ | ------------ | ------------
