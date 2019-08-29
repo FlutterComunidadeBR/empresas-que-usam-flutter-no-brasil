@@ -15,7 +15,7 @@ Nome | Link | Tecnologias/Padrões | Empresa
 ------------ | ------- | ------------ | ------------
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | Flutter, RxDart, Bloc | Cíngulo
 Espaço do Estudante | [site](https://estudante.sesisenai.org.br) [android](https://play.google.com/store/apps/details?id=br.senai.sc.appespacoestudante) [iOS](https://apps.apple.com/br/app/id1474992119) | RxDart, Bloc, Firebase | [Sesi SC](https://sesisc.org.br/) [Senai SC](https://sc.senai.br/)
-
+Quem Contrato | [Venha Conhecer!](https://linktr.ee/quemcontrato) | Flutter, Bloc, Firebase | QUEM CONTRATO SERVICO DE INFORMACAO LTDA 
 
 ## Mais sobre a comunidade
 
