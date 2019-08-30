@@ -22,7 +22,7 @@ Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/sto
 DacasaPAY | [android](https://play.google.com/store/apps/details?id=com.dacasapay) | RxDart, Bloc, SignalR | [Dacasa Financeira](https://dacasa.com.br/)
 Espaço do Estudante | [site](https://estudante.sesisenai.org.br) [android](https://play.google.com/store/apps/details?id=br.senai.sc.appespacoestudante) [iOS](https://apps.apple.com/br/app/id1474992119) | RxDart, Bloc, Firebase | [Sesi SC](https://sesisc.org.br/) [Senai SC](https://sc.senai.br/)
 iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store/apps/details?id=br.com.ipimweb&hl=pt_BR) [ios](https://apps.apple.com/th/app/ipim/id1324662786?ign-mpt=uo%3D2) | RxDart, Bloc Pattern, Slidy | BSdev
-Quem Contrato | [Venha Conhecer!](https://linktr.ee/quemcontrato) | Flutter, Bloc, Firebase | QUEM CONTRATO SERVICO DE INFORMACAO LTDA 
+Quem Contrato | [Venha Conhecer!](https://linktr.ee/quemcontrato) | Flutter, Bloc, Firebase | [Quem Contrato](https://linktr.ee/quemcontrato)
 
 ## Mais sobre a comunidade
 
