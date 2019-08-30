@@ -8,6 +8,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter | 
+[FHO - FUNDAÇÃO HERMÍNIO OMETTO](http://www.fho.edu.br)| Araras, SP | Flutter | 
 [Nubank](https://nubank.com.br) | São Paulo, SP |- |[link](https://hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/)
 [Polygonus](https://www.polygonus.com.br/) | Belo Horizonte, MG | Aqueduct |
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
