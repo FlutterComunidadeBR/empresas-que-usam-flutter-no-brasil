@@ -4,6 +4,7 @@
 
 Nome | Cidade | Tecnologias Relacionadas | Declaração
 :------------: | ------------------------ | ------------ | ------------
+[Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
@@ -20,6 +21,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 
 Nome | Link | Tecnologias/Padrões | Empresa
 ------------ | ------- | ------------ | ------------
+AAT Multiroom | [site](https://aataudio.com.br/amplificadores/amplificadores-multiroom-multizona/aat-pmr-4/) [android](https://play.google.com/store/apps/details?id=br.com.aataudio.multiroom) [ios](https://apps.apple.com/br/app/multiroom/id1439593954) | Flutter, Socket | [Astéria Internet Solutions](https://www.asteria.com.br/)
 Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.avaliare&hl=en) [ios](https://apps.apple.com/br/app/avaliare-app/id1472401151) | Flutter_bloc, FCM | [Eureka](https://eurekalabs.com.br)
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | RxDart, Bloc | [Cíngulo](https://www.cingulo.com)
 DacasaPAY | [android](https://play.google.com/store/apps/details?id=com.dacasapay) | RxDart, Bloc, SignalR | [Dacasa Financeira](https://dacasa.com.br/)
