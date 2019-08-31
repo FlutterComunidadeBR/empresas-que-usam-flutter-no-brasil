@@ -4,6 +4,7 @@
 
 Nome | Cidade | Tecnologias Relacionadas | Declaração
 :------------: | ------------------------ | ------------ | ------------
+[Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
