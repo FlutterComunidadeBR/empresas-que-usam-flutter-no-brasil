@@ -14,6 +14,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
 [Nubank](https://nubank.com.br) | São Paulo, SP |- |[link](https://hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/)
 [Polygonus](https://www.polygonus.com.br/) | Belo Horizonte, MG | Aqueduct |
+[ProJuris](https://www.projuris.com.br/) | Joinville, SC | Flutter |
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
 [Senai SC](https://sc.senai.br/) | Florianópolis, SC | Firebase |
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
