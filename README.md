@@ -9,6 +9,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
+[Dowhile](https://www.dowhile.com.br/) | Porto Alegre, RS | Flutter |
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
@@ -28,6 +29,7 @@ Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | RxDart, Bloc | [Cíngulo](https://www.cingulo.com)
 DacasaPAY | [android](https://play.google.com/store/apps/details?id=com.dacasapay) | RxDart, Bloc, SignalR | [Dacasa Financeira](https://dacasa.com.br/)
 Espaço do Estudante | [site](https://estudante.sesisenai.org.br) [android](https://play.google.com/store/apps/details?id=br.senai.sc.appespacoestudante) [ios](https://apps.apple.com/br/app/id1474992119) | RxDart, Bloc, Firebase | [Sesi SC](https://sesisc.org.br/) [Senai SC](https://sc.senai.br/)
+GoMoney | [site](https://gomoney.me/) [android](https://play.google.com/store/apps/details?id=com.gomoney.app) [ios](https://apps.apple.com/us/app/gomoney/id1461331130?l=pt&ls=1) | Flutter_bloc, Firebase | [Dowhile](https://dowhile.com.br)
 iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store/apps/details?id=br.com.ipimweb&hl=pt_BR) [ios](https://apps.apple.com/th/app/ipim/id1324662786?ign-mpt=uo%3D2) | RxDart, Bloc Pattern, Slidy | BSdev
 Quem Contrato | [site](https://linktr.ee/quemcontrato) [android](https://play.google.com/store/apps/details?id=io.github.blackfishlabs.whohire) [ios](https://apps.apple.com/us/app/quem-contrato/id1462601910?l=pt&ls=1) | Flutter, Bloc, Firebase | [Quem Contrato](https://linktr.ee/quemcontrato)
 Schoolnet Funcionário | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.edu.fho.school_func) [ios](https://apps.apple.com/br/developer/fundacao-herminio-ometto/id1460305691) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
