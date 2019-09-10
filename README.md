@@ -13,8 +13,8 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
-[Nubank](https://nubank.com.br) | São Paulo, SP |- |[link](https://hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/)
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
+[Nubank](https://nubank.com.br) | São Paulo, SP |- |[link](https://hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/)
 [Polygonus](https://www.polygonus.com.br/) | Belo Horizonte, MG | Aqueduct |
 [ProJuris](https://www.projuris.com.br/) | Joinville, SC | Flutter |
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
