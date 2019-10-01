@@ -8,8 +8,8 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
 [Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG | Flutter |
-[Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza, CE | Flutter |
+[Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
 [Dowhile](https://www.dowhile.com.br/) | Porto Alegre, RS | Flutter |
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
