@@ -22,7 +22,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
 [Senai SC](https://sc.senai.br/) | Florianópolis, SC | Firebase |
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
-[SevenTaps](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
+[SevenTaps](https://www.7taps.com.br/) | Porto Alegre, RS | Flutter |
 
 ## Projetos que usam Flutter no Brasil
 
@@ -33,7 +33,7 @@ Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/
 Blu | [site](https://blubybs2.com) [android](https://play.google.com/store/apps/details?id=com.bs2.blu) [ios](https://apps.apple.com/us/app/bs2-blu/id1456154739?ls=1) | RxDart, Bloc | [Blu by bs2](https://blubybs2.com)
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | RxDart, Bloc | [Cíngulo](https://www.cingulo.com)
 DacasaPAY | [android](https://play.google.com/store/apps/details?id=com.dacasapay) | RxDart, Bloc, SignalR | [Dacasa Financeira](https://dacasa.com.br/)
-Economia Circular | [android](https://play.google.com/store/apps/details?id=br.com.cni.economiacircular) [ios](https://apps.apple.com/br/app/id1474992119) | RxDart, Bloc | [SevenTaps](https://7taps.com.br/)
+Economia Circular | [android](https://play.google.com/store/apps/details?id=br.com.cni.economiacircular) [ios](https://apps.apple.com/us/app/economia-circular/id1480384397) | RxDart, Bloc | [SevenTaps](https://7taps.com.br/)
 Espaço do Estudante | [site](https://estudante.sesisenai.org.br) [android](https://play.google.com/store/apps/details?id=br.senai.sc.appespacoestudante) [ios](https://apps.apple.com/br/app/id1474992119) | RxDart, Bloc, Firebase | [Sesi SC](https://sesisc.org.br/) [Senai SC](https://sc.senai.br/)
 GoMoney | [site](https://gomoney.me/) [android](https://play.google.com/store/apps/details?id=com.gomoney.app) [ios](https://apps.apple.com/us/app/gomoney/id1461331130?l=pt&ls=1) | Flutter_bloc, Firebase | [Dowhile](https://dowhile.com.br)
 iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store/apps/details?id=br.com.ipimweb&hl=pt_BR) [ios](https://apps.apple.com/th/app/ipim/id1324662786?ign-mpt=uo%3D2) | RxDart, Bloc Pattern, Slidy | BSdev
