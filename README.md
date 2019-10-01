@@ -16,6 +16,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
+[Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
 [Nubank](https://nubank.com.br) | São Paulo, SP |- |[link](https://hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/)
 [Polygonus](https://www.polygonus.com.br/) | Belo Horizonte, MG | Aqueduct |
@@ -32,6 +33,7 @@ Nome | Link | Tecnologias/Padrões | Empresa
 AAT Multiroom | [site](https://aataudio.com.br/amplificadores/amplificadores-multiroom-multizona/aat-pmr-4/) [android](https://play.google.com/store/apps/details?id=br.com.aataudio.multiroom) [ios](https://apps.apple.com/br/app/multiroom/id1439593954) | Flutter, Socket | [Astéria Internet Solutions](https://www.asteria.com.br/)
 App Carajás | [site](http://carajasonline.com/) [android](https://play.google.com/store/apps/details?id=com.carajasonline.app_carajas) | Flutter_bloc | [Carajás Home Center](http://carajasonline.com/)
 Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.avaliare&hl=en) [ios](https://apps.apple.com/br/app/avaliare-app/id1472401151) | Flutter_bloc, FCM | [Eureka](https://eurekalabs.com.br)
+Azagros | [site](https://azagros.com/) [android](https://play.google.com/store/apps/details?id=com.azagros.android) | Flutter, Bloc, Firebase | [Kepha](https://kepha.com.br)
 Blu | [site](https://blubybs2.com) [android](https://play.google.com/store/apps/details?id=com.bs2.blu) [ios](https://apps.apple.com/us/app/bs2-blu/id1456154739?ls=1) | RxDart, Bloc | [Blu by bs2](https://blubybs2.com)
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | RxDart, Bloc | [Cíngulo](https://www.cingulo.com)
 DacasaPAY | [android](https://play.google.com/store/apps/details?id=com.dacasapay) | RxDart, Bloc, SignalR | [Dacasa Financeira](https://dacasa.com.br/)
@@ -42,6 +44,7 @@ iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store
 Quem Contrato | [site](https://linktr.ee/quemcontrato) [android](https://play.google.com/store/apps/details?id=io.github.blackfishlabs.whohire) [ios](https://apps.apple.com/us/app/quem-contrato/id1462601910?l=pt&ls=1) | Flutter, Bloc, Firebase | [Quem Contrato](https://linktr.ee/quemcontrato)
 Schoolnet Funcionário | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.edu.fho.school_func) [ios](https://apps.apple.com/br/developer/fundacao-herminio-ometto/id1460305691) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
 Schoolnet Professor | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.com.fho.schoolprof) [ios](https://apps.apple.com/br/app/schoolnet-professor/id1460305692) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
+SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile)| Flutter, Bloc | [Kepha](https://kepha.com.br)
 Sementes Castrolanda | [site](https://www.castrolanda.coop.br/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.castrolanda&hl=en) [ios](https://apps.apple.com/br/app/sementes-castrolanda/id1472268745) | Flutter_bloc, Firebase | [Eureka](https://eurekalabs.com.br)
 
 ## Mais sobre a comunidade
