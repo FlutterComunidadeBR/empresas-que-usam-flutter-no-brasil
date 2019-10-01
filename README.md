@@ -17,7 +17,8 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
-[Nubank](https://nubank.com.br) | São Paulo, SP |- |[link](https://hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/)
+[Novo Mundo](https://www.novomundo.com.br/) | Goiânia, GO | Flutter |
+[Nubank](https://nubank.com.br) | São Paulo, SP |Flutter |[link](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)
 [Polygonus](https://www.polygonus.com.br/) | Belo Horizonte, MG | Aqueduct |
 [ProJuris](https://www.projuris.com.br/) | Joinville, SC | Flutter |
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
