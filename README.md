@@ -13,10 +13,11 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
 [Dowhile](https://www.dowhile.com.br/) | Porto Alegre, RS | Flutter |
-[Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
+[Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
 [Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
+[Memora Processos Inovadores](https://www.memora.com.br/)| Goiânia, GO | Flutter |
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
 [Novo Mundo](https://www.novomundo.com.br/) | Goiânia, GO | Flutter |
 [Nubank](https://nubank.com.br) | São Paulo, SP |Flutter |[link](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)
