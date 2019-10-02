@@ -4,6 +4,7 @@
 
 Nome | Cidade | Tecnologias Relacionadas | Declaração
 :------------: | ------------------------ | ------------ | ------------
+[3X Solutions](https://www.3xsolutions.com.br/) | Osasco, SP | Flutter |
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
