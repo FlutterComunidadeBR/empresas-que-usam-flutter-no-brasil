@@ -17,6 +17,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
+[Juca Licenciamento de Aplicativos](https://pedeprojuca.com.br/) | Atibaia, SP | Flutter |
 [Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
 [Memora Processos Inovadores](https://www.memora.com.br/)| Goiânia, GO | Flutter |
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
@@ -44,6 +45,7 @@ Economia Circular | [android](https://play.google.com/store/apps/details?id=br.c
 Espaço do Estudante | [site](https://estudante.sesisenai.org.br) [android](https://play.google.com/store/apps/details?id=br.senai.sc.appespacoestudante) [ios](https://apps.apple.com/br/app/id1474992119) | RxDart, Bloc, Firebase | [Sesi SC](https://sesisc.org.br/) [Senai SC](https://sc.senai.br/)
 GoMoney | [site](https://gomoney.me/) [android](https://play.google.com/store/apps/details?id=com.gomoney.app) [ios](https://apps.apple.com/us/app/gomoney/id1461331130?l=pt&ls=1) | Flutter_bloc, Firebase | [Dowhile](https://dowhile.com.br)
 iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store/apps/details?id=br.com.ipimweb&hl=pt_BR) [ios](https://apps.apple.com/th/app/ipim/id1324662786?ign-mpt=uo%3D2) | RxDart, Bloc Pattern, Slidy | BSdev
+Juca | [site](https://pedeprojuca.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.appjuca.app) [ios](https://apps.apple.com/us/app/juca-delivery/id1438780544?l=pt&ls=1) | Flutter, Firebase | Juca Licenciamento de Aplicativos
 Quem Contrato | [site](https://linktr.ee/quemcontrato) [android](https://play.google.com/store/apps/details?id=io.github.blackfishlabs.whohire) [ios](https://apps.apple.com/us/app/quem-contrato/id1462601910?l=pt&ls=1) | Flutter, Bloc, Firebase | [Quem Contrato](https://linktr.ee/quemcontrato)
 Schoolnet Funcionário | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.edu.fho.school_func) [ios](https://apps.apple.com/br/developer/fundacao-herminio-ometto/id1460305691) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
 Schoolnet Professor | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.com.fho.schoolprof) [ios](https://apps.apple.com/br/app/schoolnet-professor/id1460305692) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
