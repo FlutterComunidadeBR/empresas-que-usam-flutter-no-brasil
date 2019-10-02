@@ -49,7 +49,7 @@ Juca | [site](https://pedeprojuca.com.br/) [android](https://play.google.com/sto
 Quem Contrato | [site](https://linktr.ee/quemcontrato) [android](https://play.google.com/store/apps/details?id=io.github.blackfishlabs.whohire) [ios](https://apps.apple.com/us/app/quem-contrato/id1462601910?l=pt&ls=1) | Flutter, Bloc, Firebase | [Quem Contrato](https://linktr.ee/quemcontrato)
 Schoolnet Funcionário | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.edu.fho.school_func) [ios](https://apps.apple.com/br/developer/fundacao-herminio-ometto/id1460305691) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
 Schoolnet Professor | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.com.fho.schoolprof) [ios](https://apps.apple.com/br/app/schoolnet-professor/id1460305692) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
-SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile)| Flutter, Bloc | [Kepha](https://kepha.com.br)
+SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile) [ios](https://apps.apple.com/br/app/soudizimista/id1378421772)| Flutter, Bloc | [Kepha](https://kepha.com.br)
 Sementes Castrolanda | [site](https://www.castrolanda.coop.br/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.castrolanda&hl=en) [ios](https://apps.apple.com/br/app/sementes-castrolanda/id1472268745) | Flutter_bloc, Firebase | [Eureka](https://eurekalabs.com.br)
 
 ## Mais sobre a comunidade
