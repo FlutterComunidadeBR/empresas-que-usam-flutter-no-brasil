@@ -17,7 +17,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
-[Itsnoon](https://www.itsnoon.net) | São Paulo, SP | Flutter |[link](https://www.itsnoon.net) |
+[Itsnoon](https://www.itsnoon.net) | São Paulo, SP | Flutter |
 [Juca Licenciamento de Aplicativos](https://pedeprojuca.com.br/) | Atibaia, SP | Flutter |
 [Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
 [Memora Processos Inovadores](https://www.memora.com.br/)| Goiânia, GO | Flutter |
