@@ -27,6 +27,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Polygonus](https://www.polygonus.com.br/) | Belo Horizonte, MG | Aqueduct |
 [ProJuris](https://www.projuris.com.br/) | Joinville, SC | Flutter |
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
+[Secretaria da Educação do Ceará](https://www.seduc.ce.gov.br/) | Fortaleza, CE | Flutter |
 [Senai SC](https://sc.senai.br/) | Florianópolis, SC | Firebase |
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
 [SevenTaps](http://www.7taps.com.br/) | Porto Alegre, RS | Flutter |
@@ -37,6 +38,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 Nome | Link | Tecnologias/Padrões | Empresa
 ------------ | ------- | ------------ | ------------
 AAT Multiroom | [site](https://aataudio.com.br/amplificadores/amplificadores-multiroom-multizona/aat-pmr-4/) [android](https://play.google.com/store/apps/details?id=br.com.aataudio.multiroom) [ios](https://apps.apple.com/br/app/multiroom/id1439593954) | Flutter, Socket | [Astéria Internet Solutions](https://www.asteria.com.br/)
+Aluno Online | [android](https://play.google.com/store/apps/details?id=br.gov.ce.seduc.aluno) [ios](https://apps.apple.com/br/app/cingulo/id1463666621) | Flutter, Firebase, RxDart, Bloc | [Secretária da Educação do Ceará](https://www.seduc.ce.gov.br/)
 App Carajás | [site](http://carajasonline.com/) [android](https://play.google.com/store/apps/details?id=com.carajasonline.app_carajas) | Flutter_bloc | [Carajás Home Center](http://carajasonline.com/)
 Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.avaliare&hl=en) [ios](https://apps.apple.com/br/app/avaliare-app/id1472401151) | Flutter_bloc, FCM | [Eureka](https://eurekalabs.com.br)
 Azagros | [site](https://azagros.com/) [android](https://play.google.com/store/apps/details?id=com.azagros.android) | Flutter, Bloc, Firebase | [Kepha](https://kepha.com.br)
@@ -54,7 +56,7 @@ Schoolnet Funcionário | [site](https://schoolnet.uniararas.br/) [android](https
 Schoolnet Professor | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.com.fho.schoolprof) [ios](https://apps.apple.com/br/app/schoolnet-professor/id1460305692) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
 Sementes Castrolanda | [site](https://www.castrolanda.coop.br/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.castrolanda&hl=en) [ios](https://apps.apple.com/br/app/sementes-castrolanda/id1472268745) | Flutter_bloc, Firebase | [Eureka](https://eurekalabs.com.br)
 SISLoja - Sistema de Gestão| [android](https://play.google.com/store/apps/details?id=wlssistemas.com.br.sisloja&hl=pt_BR) |bloc_pattern, Firebase | [WLS Soluções](https://wlssistemas.com.br/)
-SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile) [ios](https://apps.apple.com/br/app/soudizimista/id1378421772)| Flutter, Bloc | [Kepha](https://kepha.com.br)
+SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile)| Flutter, Bloc | [Kepha](https://kepha.com.br)
 
 ## Mais sobre a comunidade
 
