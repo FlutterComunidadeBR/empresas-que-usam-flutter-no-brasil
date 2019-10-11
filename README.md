@@ -32,6 +32,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
 [SevenTaps](http://www.7taps.com.br/) | Porto Alegre, RS | Flutter |
 [WLS Soluções](https://wlssistemas.com.br/) | Capão Bonito, SP | Flutter |
+[ZarpSystem](http://zarpsystem.com.br/) | Araraquara, SP | Flutter |
 
 ## Projetos que usam Flutter no Brasil
 
@@ -52,6 +53,7 @@ iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store
 Juca | [site](https://pedeprojuca.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.appjuca.app) [ios](https://apps.apple.com/us/app/juca-delivery/id1438780544?l=pt&ls=1) | Flutter, Firebase | Juca Licenciamento de Aplicativos
 Le Garçom | [android](https://play.google.com/store/apps/details?id=wlssistemas.com.br.pdv_restaurante&hl=pt_BR) |bloc_pattern, Firebase | [WLS Soluções](https://wlssistemas.com.br/)
 Quem Contrato | [site](https://linktr.ee/quemcontrato) [android](https://play.google.com/store/apps/details?id=io.github.blackfishlabs.whohire) [ios](https://apps.apple.com/us/app/quem-contrato/id1462601910?l=pt&ls=1) | Flutter, Bloc, Firebase | [Quem Contrato](https://linktr.ee/quemcontrato)
+ReparaAqui | [android](https://play.google.com/store/apps/details?id=br.com.zarpsystem.repara_aqui) [ios](https://apps.apple.com/uy/app/repara-aqui-orizon/id1459943122) | Flutter, OneSignal | [Orizon](https://orizon.com.br/) [ZarpSystem](http://zarpsystem.com.br/)
 Schoolnet Funcionário | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.edu.fho.school_func) [ios](https://apps.apple.com/br/developer/fundacao-herminio-ometto/id1460305691) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
 Schoolnet Professor | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.com.fho.schoolprof) [ios](https://apps.apple.com/br/app/schoolnet-professor/id1460305692) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
 Sementes Castrolanda | [site](https://www.castrolanda.coop.br/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.castrolanda&hl=en) [ios](https://apps.apple.com/br/app/sementes-castrolanda/id1472268745) | Flutter_bloc, Firebase | [Eureka](https://eurekalabs.com.br)
