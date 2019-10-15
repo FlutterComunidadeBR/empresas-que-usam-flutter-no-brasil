@@ -7,6 +7,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [3X Solutions](https://www.3xsolutions.com.br/) | Osasco, SP | Flutter |
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
+[BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
 [Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG | Flutter |
 [Carajás Home Center](http://carajasonline.com/) | Maceió, AL | Flutter |
@@ -21,6 +22,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Juca Licenciamento de Aplicativos](https://pedeprojuca.com.br/) | Atibaia, SP | Flutter |
 [Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
 [Memora Processos Inovadores](https://www.memora.com.br/)| Goiânia, GO | Flutter |
+[N2B](https://n2bbrasil.com) | São Paulo, SP | Flutter |
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
 [Novo Mundo](https://www.novomundo.com.br/) | Goiânia, GO | Flutter |
 [Nubank](https://nubank.com.br) | São Paulo, SP |Flutter |[link](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)
