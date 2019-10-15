@@ -28,6 +28,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Nubank](https://nubank.com.br) | São Paulo, SP |Flutter |[link](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)
 [Polygonus](https://www.polygonus.com.br/) | Belo Horizonte, MG | Aqueduct |
 [ProJuris](https://www.projuris.com.br/) | Joinville, SC | Flutter |
+[Quantum Labs](https://quantumlabs.com.br/) | São José dos Campos, SP | Flutter |
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
 [Secretaria da Educação do Ceará](https://www.seduc.ce.gov.br/) | Fortaleza, CE | Flutter |
 [Senai SC](https://sc.senai.br/) | Florianópolis, SC | Firebase |
