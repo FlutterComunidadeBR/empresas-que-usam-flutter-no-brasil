@@ -5,6 +5,7 @@
 Nome | Cidade | Tecnologias Relacionadas | Declaração
 :------------: | ------------------------ | ------------ | ------------
 [3X Solutions](https://www.3xsolutions.com.br/) | Osasco, SP | Flutter |
+[Agentech](https://www.agentech.com.br/) | Parnaíba, PI | Flutter |
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
@@ -62,6 +63,7 @@ Schoolnet Professor | [site](https://schoolnet.uniararas.br/) [android](https://
 Sementes Castrolanda | [site](https://www.castrolanda.coop.br/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.castrolanda&hl=en) [ios](https://apps.apple.com/br/app/sementes-castrolanda/id1472268745) | Flutter_bloc, Firebase | [Eureka](https://eurekalabs.com.br)
 SISLoja - Sistema de Gestão| [android](https://play.google.com/store/apps/details?id=wlssistemas.com.br.sisloja&hl=pt_BR) |bloc_pattern, Firebase | [WLS Soluções](https://wlssistemas.com.br/)
 SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile) [ios](https://apps.apple.com/br/app/soudizimista/id1378421772)| Flutter, Bloc | [Kepha](https://kepha.com.br)
+TechBox | [site](https://www.agentech.com.br/TechBox/) [android](https://play.google.com/store/apps/details?id=br.com.agentech.techbox) | Flutter,  Lifting State Up  | [Agentech](https://www.agentech.com.br/)
 
 ## Mais sobre a comunidade
 
