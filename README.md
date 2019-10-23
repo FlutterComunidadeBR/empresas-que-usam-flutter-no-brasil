@@ -46,7 +46,7 @@ Aluno Online | [android](https://play.google.com/store/apps/details?id=br.gov.ce
 App Carajás | [site](http://carajasonline.com/) [android](https://play.google.com/store/apps/details?id=com.carajasonline.app_carajas) | Flutter_bloc | [Carajás Home Center](http://carajasonline.com/)
 Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.avaliare&hl=en) [ios](https://apps.apple.com/br/app/avaliare-app/id1472401151) | Flutter_bloc, FCM | [Eureka](https://eurekalabs.com.br)
 Azagros | [site](https://azagros.com/) [android](https://play.google.com/store/apps/details?id=com.azagros.android) | Flutter, Bloc, Firebase | [Kepha](https://kepha.com.br)
-BG Engenheiros | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioappengineer) ios (Publicação Interna) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
+BG Engenheiros | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioappengineer) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 BG Studio | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioapp) [ios](https://apps.apple.com/br/app/bg-studio/id1447425309) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 Blu | [site](https://blubybs2.com) [android](https://play.google.com/store/apps/details?id=com.bs2.blu) [ios](https://apps.apple.com/us/app/bs2-blu/id1456154739?ls=1) | RxDart, Bloc | [Blu by bs2](https://blubybs2.com)
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | RxDart, Bloc | [Cíngulo](https://www.cingulo.com)
