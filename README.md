@@ -15,6 +15,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza, CE | Flutter |
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
+[Dell Lead](http://leadfortaleza.com.br/) | Fortaleza, CE | Flutter |
 [Dowhile](https://www.dowhile.com.br/) | Porto Alegre, RS | Flutter |
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
