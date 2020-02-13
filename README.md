@@ -22,6 +22,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
 [Itsnoon](https://www.itsnoon.net) | São Paulo, SP | Flutter |
+[iFood](https://www.ifood.com.br/) | Osasco, SP | Flutter | [Artigo no Medium](https://medium.com/ifood-tech/porque-optamos-em-usar-flutter-em-nosso-novo-produto-no-ifood-bbe04dd1d452)
 [Juca Licenciamento de Aplicativos](https://pedeprojuca.com.br/) | Atibaia, SP | Flutter |
 [Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
 [Memora Processos Inovadores](https://www.memora.com.br/)| Goiânia, GO | Flutter |
