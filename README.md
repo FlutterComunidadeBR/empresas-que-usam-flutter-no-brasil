@@ -74,6 +74,7 @@ Sementes Castrolanda | [site](https://www.castrolanda.coop.br/) [android](https:
 SISLoja - Sistema de Gestão| [android](https://play.google.com/store/apps/details?id=wlssistemas.com.br.sisloja&hl=pt_BR) |bloc_pattern, Firebase | [WLS Soluções](https://wlssistemas.com.br/)
 SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile) [ios](https://apps.apple.com/br/app/soudizimista/id1378421772)| Flutter, Bloc | [Kepha](https://kepha.com.br)
 TechBox | [site](https://www.agentech.com.br/TechBox/) [android](https://play.google.com/store/apps/details?id=br.com.agentech.techbox) | Flutter,  Lifting State Up  | [Agentech](https://www.agentech.com.br/)
+TJCE | [android](https://play.google.com/store/apps/details?id=br.jus.tjce.tjcemobile) [ios](https://apps.apple.com/br/app/tjce/id1487127651) | Flutter, Provider | [Tribunal de Justiça do Estado do Ceará](https://www.tjce.jus.br/)
 
 ## Mais sobre a comunidade
 
