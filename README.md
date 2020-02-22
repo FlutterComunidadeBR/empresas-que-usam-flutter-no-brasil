@@ -9,7 +9,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
-[Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
+[BLACKFISH LABS](https://blackfishlabs.com.br/) | Tangará da Serra, MT | Flutter |
 [Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG | Flutter |
 [Capyba](https://capyba.com/) | Recife, PE | Flutter, Firebase
 [Carajás Home Center](http://carajasonline.com/) | Maceió, AL | Flutter |
@@ -62,6 +62,7 @@ GoMoney | [site](https://gomoney.me/) [android](https://play.google.com/store/ap
 iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store/apps/details?id=br.com.ipimweb&hl=pt_BR) [ios](https://apps.apple.com/th/app/ipim/id1324662786?ign-mpt=uo%3D2) | RxDart, Bloc Pattern, Slidy | BSdev
 Juca | [site](https://pedeprojuca.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.appjuca.app) [ios](https://apps.apple.com/us/app/juca-delivery/id1438780544?l=pt&ls=1) | Flutter, Firebase | Juca Licenciamento de Aplicativos
 Le Garçom | [android](https://play.google.com/store/apps/details?id=wlssistemas.com.br.pdv_restaurante&hl=pt_BR) |bloc_pattern, Firebase | [WLS Soluções](https://wlssistemas.com.br/)
+LotoHard! | [android](http://bit.ly/2QyB7fh) |Firebase | [BLACKFISH LABS](https://blackfishlabs.com.br/)
 Nexus Lojista | [android](https://play.google.com/store/apps/details?id=br.com.nexusoficial.lojista) [ios](https://apps.apple.com/br/app/nexus-lojista/id1426568547) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 Nexus Oficial | [android](https://play.google.com/store/apps/details?id=br.com.nexusoficial) [ios](https://apps.apple.com/br/app/nexus-oficial/id1426576352) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 ProJuris para Escritórios | [android](https://play.google.com/store/apps/details?id=com.duotecnologia.projuris.app) [ios](https://apps.apple.com/us/app/projuris-software-jur%C3%ADdico/id1434697943) | bloc_pattern, rx_dart | [ProJuris](https://www.projuris.com.br/escritorios/)
