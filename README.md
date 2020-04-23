@@ -48,7 +48,7 @@ Nome | Link | Tecnologias/Padrões | Empresa
 ------------ | ------- | ------------ | ------------
 AAT Multiroom | [site](https://aataudio.com.br/amplificadores/amplificadores-multiroom-multizona/aat-pmr-4/) [android](https://play.google.com/store/apps/details?id=br.com.aataudio.multiroom) [ios](https://apps.apple.com/br/app/multiroom/id1439593954) | Flutter, Socket | [Astéria Internet Solutions](https://www.asteria.com.br/)
 Aluno Online | [android](https://play.google.com/store/apps/details?id=br.gov.ce.seduc.aluno) [ios](https://apps.apple.com/br/app/cingulo/id1463666621) | Flutter, Firebase, RxDart, Bloc | [Secretária da Educação do Ceará](https://www.seduc.ce.gov.br/)
-App Carajás | [site](http://carajasonline.com/) [android](https://play.google.com/store/apps/details?id=com.carajasonline.app_carajas) | Flutter_bloc | [Carajás Home Center](http://carajasonline.com/)
+Carajás | [site](http://carajasonline.com/) [android](https://play.google.com/store/apps/details?id=carajas.carajas) [ios](https://apps.apple.com/us/app/carajas/id1508001631) | Flutter, MobX | [Carajás Home Center](http://carajasonline.com/)
 Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.avaliare&hl=en) [ios](https://apps.apple.com/br/app/avaliare-app/id1472401151) | Flutter_bloc, FCM | [Eureka](https://eurekalabs.com.br)
 Azagros | [site](https://azagros.com/) [android](https://play.google.com/store/apps/details?id=com.azagros.android) | Flutter, Bloc, Firebase | [Kepha](https://kepha.com.br)
 BG Engenheiros | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioappengineer) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
