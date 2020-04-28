@@ -10,7 +10,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
 [Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
-[Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG | Flutter |
+[Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG / Remoto | Flutter |
 [Capyba](https://capyba.com/) | Recife, PE | Flutter, Firebase
 [Carajás Home Center](http://carajasonline.com/) | Maceió, AL | Flutter |
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza, CE | Flutter |
