@@ -15,6 +15,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Carajás Home Center](http://carajasonline.com/) | Maceió, AL | Flutter |
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza, CE | Flutter |
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
+[Credifit](https://www.credifit.com.br) | Salvador, BA | Flutter | [Artigo no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6598210220214800384)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
 [Dell Lead](http://leadfortaleza.com.br/) | Fortaleza, CE | Flutter |
 [Dowhile](https://www.dowhile.com.br/) | Porto Alegre, RS | Flutter |
