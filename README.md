@@ -9,7 +9,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
-[Blackfish Labs](https://blackfishlabs.github.io/) | Maringá, PR | Firebase |
+[BLACKFISH LABS](https://blackfishlabs.com.br/) | Tangará da Serra, MT | Flutter |
 [Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG / Remoto | Flutter |
 [Capyba](https://capyba.com/) | Recife, PE | Flutter, Firebase
 [Carajás Home Center](http://carajasonline.com/) | Maceió, AL | Flutter |
@@ -48,7 +48,7 @@ Nome | Link | Tecnologias/Padrões | Empresa
 ------------ | ------- | ------------ | ------------
 AAT Multiroom | [site](https://aataudio.com.br/amplificadores/amplificadores-multiroom-multizona/aat-pmr-4/) [android](https://play.google.com/store/apps/details?id=br.com.aataudio.multiroom) [ios](https://apps.apple.com/br/app/multiroom/id1439593954) | Flutter, Socket | [Astéria Internet Solutions](https://www.asteria.com.br/)
 Aluno Online | [android](https://play.google.com/store/apps/details?id=br.gov.ce.seduc.aluno) [ios](https://apps.apple.com/br/app/cingulo/id1463666621) | Flutter, Firebase, RxDart, Bloc | [Secretária da Educação do Ceará](https://www.seduc.ce.gov.br/)
-App Carajás | [site](http://carajasonline.com/) [android](https://play.google.com/store/apps/details?id=com.carajasonline.app_carajas) | Flutter_bloc | [Carajás Home Center](http://carajasonline.com/)
+Carajás | [site](http://carajasonline.com/) [android](https://play.google.com/store/apps/details?id=carajas.carajas) [ios](https://apps.apple.com/us/app/carajas/id1508001631) | Flutter, MobX | [Carajás Home Center](http://carajasonline.com/)
 Avaliare | [site](http://avaliare.com/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.avaliare&hl=en) [ios](https://apps.apple.com/br/app/avaliare-app/id1472401151) | Flutter_bloc, FCM | [Eureka](https://eurekalabs.com.br)
 Azagros | [site](https://azagros.com/) [android](https://play.google.com/store/apps/details?id=com.azagros.android) | Flutter, Bloc, Firebase | [Kepha](https://kepha.com.br)
 BG Engenheiros | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioappengineer) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
@@ -62,6 +62,7 @@ GoMoney | [site](https://gomoney.me/) [android](https://play.google.com/store/ap
 iPIM | [site](http://www.ipimweb.com.br) [android](https://play.google.com/store/apps/details?id=br.com.ipimweb&hl=pt_BR) [ios](https://apps.apple.com/th/app/ipim/id1324662786?ign-mpt=uo%3D2) | RxDart, Bloc Pattern, Slidy | BSdev
 Juca | [site](https://pedeprojuca.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.appjuca.app) [ios](https://apps.apple.com/us/app/juca-delivery/id1438780544?l=pt&ls=1) | Flutter, Firebase | Juca Licenciamento de Aplicativos
 Le Garçom | [android](https://play.google.com/store/apps/details?id=wlssistemas.com.br.pdv_restaurante&hl=pt_BR) |bloc_pattern, Firebase | [WLS Soluções](https://wlssistemas.com.br/)
+LotoHard! | [android](http://bit.ly/2QyB7fh) |Firebase | [BLACKFISH LABS](https://blackfishlabs.com.br/)
 Nexus Lojista | [android](https://play.google.com/store/apps/details?id=br.com.nexusoficial.lojista) [ios](https://apps.apple.com/br/app/nexus-lojista/id1426568547) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 Nexus Oficial | [android](https://play.google.com/store/apps/details?id=br.com.nexusoficial) [ios](https://apps.apple.com/br/app/nexus-oficial/id1426576352) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 ProJuris para Escritórios | [android](https://play.google.com/store/apps/details?id=com.duotecnologia.projuris.app) [ios](https://apps.apple.com/us/app/projuris-software-jur%C3%ADdico/id1434697943) | bloc_pattern, rx_dart | [ProJuris](https://www.projuris.com.br/escritorios/)
