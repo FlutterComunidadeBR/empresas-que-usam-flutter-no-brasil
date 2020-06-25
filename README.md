@@ -26,6 +26,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Juca Licenciamento de Aplicativos](https://pedeprojuca.com.br/) | Atibaia, SP | Flutter |
 [Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
 [Memora Processos Inovadores](https://www.memora.com.br/)| Goiânia, GO | Flutter |
+[Mobilibus](https://www.mobilibus.com.br) | Blumenau, SC | Flutter, Firebase |[link](https://blog.mobilibus.com/criatividade-em-meio-ao-distanciamento-social/)
 [N2B](https://n2bbrasil.com) | São Paulo, SP | Flutter |
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
 [Novo Mundo](https://www.novomundo.com.br/) | Goiânia, GO | Flutter |
@@ -54,6 +55,7 @@ Azagros | [site](https://azagros.com/) [android](https://play.google.com/store/a
 BG Engenheiros | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioappengineer) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 BG Studio | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioapp) [ios](https://apps.apple.com/br/app/bg-studio/id1447425309) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 Blu | [site](https://blubybs2.com) [android](https://play.google.com/store/apps/details?id=com.bs2.blu) [ios](https://apps.apple.com/us/app/bs2-blu/id1456154739?ls=1) | RxDart, Bloc | [Blu by bs2](https://blubybs2.com)
+Bus2 | [Bus2](https://bus2app.com) [android](https://play.google.com/store/apps/details?id=br.bus2&hl=pt_BR) [ios](https://apps.apple.com/br/app/bus2/id1487690526)
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | RxDart, Bloc | [Cíngulo](https://www.cingulo.com)
 DacasaPAY | [android](https://play.google.com/store/apps/details?id=com.dacasapay) | RxDart, Bloc, SignalR | [Dacasa Financeira](https://dacasa.com.br/)
 Economia Circular | [android](https://play.google.com/store/apps/details?id=br.com.cni.economiacircular) [ios](https://apps.apple.com/us/app/economia-circular/id1480384397) | RxDart, Bloc | [SevenTaps](http://7taps.com.br/)
