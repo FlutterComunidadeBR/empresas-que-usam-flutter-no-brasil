@@ -7,6 +7,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [3X Solutions](https://www.3xsolutions.com.br/) | Osasco, SP | Flutter |
 [Agentech](https://www.agentech.com.br/) | Parnaíba, PI | Flutter |
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
+[Alice](https://www.alice.com.br/) | São Paulo, SP | Flutter |[Artigo Medium](https://medium.com/alice-tech/flutter-eu-escolho-voc%C3%AA-83ef5ee5c4a3)
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
 [BLACKFISH LABS](https://blackfishlabs.com.br/) | Tangará da Serra, MT | Flutter |
