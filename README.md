@@ -41,6 +41,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Tribunal de Justiça do Estado do Ceará](https://www.tjce.jus.br/) | Ceará, CE | Flutter
 [WLS Soluções](https://wlssistemas.com.br/) | Capão Bonito, SP | Flutter |
 [ZarpSystem](http://zarpsystem.com.br/) | Araraquara, SP | Flutter |
+[Fix Pay](https://fixpay.com.br/) | Fortaleza, CE | Flutter |
 
 ## Projetos que usam Flutter no Brasil
 
@@ -77,6 +78,7 @@ SISLoja - Sistema de Gestão| [android](https://play.google.com/store/apps/detai
 SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile) [ios](https://apps.apple.com/br/app/soudizimista/id1378421772)| Flutter, Bloc | [Kepha](https://kepha.com.br)
 TechBox | [site](https://www.agentech.com.br/TechBox/) [android](https://play.google.com/store/apps/details?id=br.com.agentech.techbox) | Flutter,  Lifting State Up  | [Agentech](https://www.agentech.com.br/)
 TJCE | [android](https://play.google.com/store/apps/details?id=br.jus.tjce.tjcemobile) [ios](https://apps.apple.com/br/app/tjce/id1487127651) | Flutter, Provider | [Tribunal de Justiça do Estado do Ceará](https://www.tjce.jus.br/)
+FixPayAPP | [android](https://play.google.com/store/apps/details?id=br.com.fixpay.fixpayapp) [ios](https://apps.apple.com/br/app/fixpayapp/id1511233075) | Flutter, Provider | [FIX PAY - Empresa especializada em soluções de pagamento conta digital](https://fixpay.com.br/)
 
 ## Mais sobre a comunidade
 
