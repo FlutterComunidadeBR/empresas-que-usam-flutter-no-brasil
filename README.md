@@ -38,6 +38,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Senai SC](https://sc.senai.br/) | Florianópolis, SC | Firebase |
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
 [SevenTaps](http://www.7taps.com.br/) | Porto Alegre, RS | Flutter |
+[Sua Música](http://www.suamusica.com.br/) | São Paulo, SP / Fortaleza,CE | Flutter |
 [Tribunal de Justiça do Estado do Ceará](https://www.tjce.jus.br/) | Ceará, CE | Flutter
 [WLS Soluções](https://wlssistemas.com.br/) | Capão Bonito, SP | Flutter |
 [ZarpSystem](http://zarpsystem.com.br/) | Araraquara, SP | Flutter |
@@ -75,6 +76,7 @@ Schoolnet Professor | [site](https://schoolnet.uniararas.br/) [android](https://
 Sementes Castrolanda | [site](https://www.castrolanda.coop.br/) [android](https://play.google.com/store/apps/details?id=br.com.eurekalabs.castrolanda&hl=en) [ios](https://apps.apple.com/br/app/sementes-castrolanda/id1472268745) | Flutter_bloc, Firebase | [Eureka](https://eurekalabs.com.br)
 SISLoja - Sistema de Gestão| [android](https://play.google.com/store/apps/details?id=wlssistemas.com.br.sisloja&hl=pt_BR) |bloc_pattern, Firebase | [WLS Soluções](https://wlssistemas.com.br/)
 SouDizimista | [site](https://soudizimista.com.br/) [android](https://play.google.com/store/apps/details?id=br.com.dizimofiel.soudizimista.mobile) [ios](https://apps.apple.com/br/app/soudizimista/id1378421772)| Flutter, Bloc | [Kepha](https://kepha.com.br)
+Sua Música | [site](https://www.suamusica.com.br) [android](https://play.google.com/store/apps/details?id=suamusica.suamusicaapp)  [ios](https://apps.apple.com/br/app/id1184035619) | Flutter,  Bloc, Provider, Firebase  | [Sua Música](https://suamusica.com.br)
 TechBox | [site](https://www.agentech.com.br/TechBox/) [android](https://play.google.com/store/apps/details?id=br.com.agentech.techbox) | Flutter,  Lifting State Up  | [Agentech](https://www.agentech.com.br/)
 TJCE | [android](https://play.google.com/store/apps/details?id=br.jus.tjce.tjcemobile) [ios](https://apps.apple.com/br/app/tjce/id1487127651) | Flutter, Provider | [Tribunal de Justiça do Estado do Ceará](https://www.tjce.jus.br/)
 
