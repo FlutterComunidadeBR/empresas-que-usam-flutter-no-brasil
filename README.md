@@ -11,6 +11,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
 [BLACKFISH LABS](https://blackfishlabs.com.br/) | Tangará da Serra, MT | Flutter |
 [Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG / Remoto | Flutter |
+[Bluebook](https://bluebookapps.com/#/) | Salvador, BA | Flutter
 [Capyba](https://capyba.com/) | Recife, PE | Flutter, Firebase
 [Carajás Home Center](http://carajasonline.com/) | Maceió, AL | Flutter |
 [Casa Magalhães](https://www.casamagalhaes.com.br/) | Fortaleza, CE | Flutter |
@@ -55,6 +56,7 @@ BG Engenheiros | [android](https://play.google.com/store/apps/details?id=br.arq.
 BG Studio | [android](https://play.google.com/store/apps/details?id=br.arq.bgstudio.bgstudioapp) [ios](https://apps.apple.com/br/app/bg-studio/id1447425309) | bloc_pattern, rx_dart | [Quantum Labs](https://quantumlabs.com.br/)
 Blu | [site](https://blubybs2.com) [android](https://play.google.com/store/apps/details?id=com.bs2.blu) [ios](https://apps.apple.com/us/app/bs2-blu/id1456154739?ls=1) | RxDart, Bloc | [Blu by bs2](https://blubybs2.com)
 Cíngulo | [site](https://www.cingulo.com) [android](https://play.google.com/store/apps/details?id=com.cingulo.app) [ios](https://apps.apple.com/br/app/cingulo/id1190110484) | RxDart, Bloc | [Cíngulo](https://www.cingulo.com)
+Cups - Puzzle de cores | [android](https://play.google.com/store/apps/details?id=com.blu.cups) | Flutter, Bloc | [ios](https://apps.apple.com/br/app/cups-puzzle-da-%C3%A1gua-colorida/id1541421297) | [Bluebook](https://bluebookapps.com/#/)
 DacasaPAY | [android](https://play.google.com/store/apps/details?id=com.dacasapay) | RxDart, Bloc, SignalR | [Dacasa Financeira](https://dacasa.com.br/)
 Economia Circular | [android](https://play.google.com/store/apps/details?id=br.com.cni.economiacircular) [ios](https://apps.apple.com/us/app/economia-circular/id1480384397) | RxDart, Bloc | [SevenTaps](http://7taps.com.br/)
 Espaço do Estudante | [site](https://estudante.sesisenai.org.br) [android](https://play.google.com/store/apps/details?id=br.senai.sc.appespacoestudante) [ios](https://apps.apple.com/br/app/id1474992119) | RxDart, Bloc, Firebase | [Sesi SC](https://sesisc.org.br/) [Senai SC](https://sc.senai.br/)
@@ -68,6 +70,7 @@ Nexus Oficial | [android](https://play.google.com/store/apps/details?id=br.com.n
 ProJuris para Escritórios | [android](https://play.google.com/store/apps/details?id=com.duotecnologia.projuris.app) [ios](https://apps.apple.com/us/app/projuris-software-jur%C3%ADdico/id1434697943) | bloc_pattern, rx_dart | [ProJuris](https://www.projuris.com.br/escritorios/)
 Quem Contrato | [site](https://linktr.ee/quemcontrato) [android](https://play.google.com/store/apps/details?id=io.github.blackfishlabs.whohire) [ios](https://apps.apple.com/us/app/quem-contrato/id1462601910?l=pt&ls=1) | Flutter, Bloc, Firebase | [Quem Contrato](https://linktr.ee/quemcontrato)
 Radar Inteligência | [android](https://play.google.com/store/apps/details?id=br.com.radarinteligencia.kepha.mobile) | Flutter, Bloc | [Kepha](https://kepha.com.br)
+Rabit | [android](https://play.google.com/store/apps/details?id=com.blu.rabito) | Flutter, Bloc | [ios](https://apps.apple.com/br/app/rabit-h%C3%A1bitos-%C3%A0-risca/id1512605216) | [Bluebook](https://bluebookapps.com/#/)
 ReparaAqui | [android](https://play.google.com/store/apps/details?id=br.com.zarpsystem.repara_aqui) [ios](https://apps.apple.com/uy/app/repara-aqui-orizon/id1459943122) | Flutter, OneSignal | [Orizon](https://orizon.com.br/) [ZarpSystem](http://zarpsystem.com.br/)
 Saúde 4 Patas | [site](https://saude4patas.com/) [android](https://play.google.com/store/apps/details?id=com.saude4patas.app) [ios](https://apps.apple.com/us/app/sa%C3%BAde-4-patas/id1478131690?l=pt&ls=1) | Flutter_bloc, Firebase | [Dowhile](https://dowhile.com.br)
 Schoolnet Funcionário | [site](https://schoolnet.uniararas.br/) [android](https://play.google.com/store/apps/details?id=br.edu.fho.school_func) [ios](https://apps.apple.com/br/developer/fundacao-herminio-ometto/id1460305691) | Flutter_bloc, Meta, Bloc | [FHO](http://www.fho.edu.br)
