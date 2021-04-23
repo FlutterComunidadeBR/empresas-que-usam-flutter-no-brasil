@@ -25,6 +25,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [iFood](https://www.ifood.com.br/) | Osasco, SP | Flutter | [Artigo no Medium](https://medium.com/ifood-tech/porque-optamos-em-usar-flutter-em-nosso-novo-produto-no-ifood-bbe04dd1d452)
 [Juca Licenciamento de Aplicativos](https://pedeprojuca.com.br/) | Atibaia, SP | Flutter |
 [Kepha](https://www.kepha.com.br/) | Dois Vizinhos, PR | Flutter |
+[Logo Informática](https://portaldalogon.com.br/) | João Pessoa, PB | Flutter |
 [Memora Processos Inovadores](https://www.memora.com.br/)| Goiânia, GO | Flutter |
 [N2B](https://n2bbrasil.com) | São Paulo, SP | Flutter |
 [niYon](https://www.niyon.com.br) | Campinas, SP | Flutter |
