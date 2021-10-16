@@ -17,10 +17,12 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Cíngulo](https://www.cingulo.com) | Porto Alegre, RS | Flutter | [Cíngulo Dev](http://dev.cingulo.com)
 [Dacasa Financeira](https://dacasa.com.br/)| Vitória, ES | SignalR | [Boilerplate Utilizado](https://github.com/Katekko/flutter_boilerplate)
 [Dell Lead](http://leadfortaleza.com.br/) | Fortaleza, CE | Flutter |
+[DevMagic](https://devmagic.com.br/) | Santos, SP | Flutter |
 [Dowhile](https://www.dowhile.com.br/) | Porto Alegre, RS | Flutter |
 [DViT Solutions](https://www.dvitsolutions.com)| Recife, PE | Flutter |
 [Eureka](https://eurekalabs.com.br/)| Maringá, PR | Flutter |
 [FHO - Fundação Hermínio Ometto](http://www.fho.edu.br)| Araras, SP | Flutter |
+[Grupo Fasitec](https://grupofasitec.com.br/) | Aracaju, SE | Flutter |
 [Itsnoon](https://www.itsnoon.net) | São Paulo, SP | Flutter |
 [iFood](https://www.ifood.com.br/) | Osasco, SP | Flutter | [Artigo no Medium](https://medium.com/ifood-tech/porque-optamos-em-usar-flutter-em-nosso-novo-produto-no-ifood-bbe04dd1d452)
 [Juca Licenciamento de Aplicativos](https://pedeprojuca.com.br/) | Atibaia, SP | Flutter |
