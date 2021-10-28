@@ -9,6 +9,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Agibank](https://www.agibank.com.br/) | Porto Alegre, RS | Flutter |
 [Astéria Internet Solutions](https://www.asteria.com.br/) | São Paulo, SP | Flutter |
 [BeeTech](https://beetech.global) | São Paulo, SP | Flutter |
+[Beta Learning](https://betalearning.com.br/) | São Carlos, SP | Flutter |
 [BLACKFISH LABS](https://blackfishlabs.com.br/) | Tangará da Serra, MT | Flutter |
 [Blu by bs2](https://blubybs2.com) | Belo Horizonte, MG / Remoto | Flutter |
 [Capyba](https://capyba.com/) | Recife, PE | Flutter, Firebase
