@@ -39,6 +39,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
 [SevenTaps](http://www.7taps.com.br/) | Porto Alegre, RS | Flutter |
 [Tribunal de Justiça do Estado do Ceará](https://www.tjce.jus.br/) | Ceará, CE | Flutter
+[Tukey](https://www.tukey.com.br) | Brasilia, DF | Flutter
 [WLS Soluções](https://wlssistemas.com.br/) | Capão Bonito, SP | Flutter |
 [ZarpSystem](http://zarpsystem.com.br/) | Araraquara, SP | Flutter |
 
