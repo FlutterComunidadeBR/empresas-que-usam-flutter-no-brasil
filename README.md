@@ -40,6 +40,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [SevenTaps](http://www.7taps.com.br/) | Porto Alegre, RS | Flutter |
 [Tribunal de Justiça do Estado do Ceará](https://www.tjce.jus.br/) | Ceará, CE | Flutter
 [WLS Soluções](https://wlssistemas.com.br/) | Capão Bonito, SP | Flutter |
+[Youse](https://www.youse.com.br/) | São Paulo, SP | Flutter | [Artigo no Medium](https://medium.com/youse-tech/por-que-optamos-migrar-de-nativo-para-o-flutter-3dc921612efb)
 [ZarpSystem](http://zarpsystem.com.br/) | Araraquara, SP | Flutter |
 
 ## Projetos que usam Flutter no Brasil
