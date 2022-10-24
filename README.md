@@ -34,6 +34,7 @@ Nome | Cidade | Tecnologias Relacionadas | Declaração
 [ProJuris](https://www.projuris.com.br/) | Joinville, SC | Flutter |
 [Quantum Labs](https://quantumlabs.com.br/) | São José dos Campos, SP | Flutter |
 [Quem Contrato](https://linktr.ee/quemcontrato) | Maringá, PR | Firebase |
+[Revelo](https://revelo.com.br) | São Paulo, SP | Firebase | [Artigo no Medium](https://medium.com/revelo-tech/app-nativo-ou-h%C3%ADbrido-9cbd1773c70f)
 [Secretaria da Educação do Ceará](https://www.seduc.ce.gov.br/) | Fortaleza, CE | Flutter |
 [Senai SC](https://sc.senai.br/) | Florianópolis, SC | Firebase |
 [Sesi SC](https://sesisc.org.br/)| Florianópolis, SC | Firebase |
